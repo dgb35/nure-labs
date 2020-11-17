@@ -3,7 +3,7 @@
 
 int main()
 {
-	const int size = 6; // Amount of segments (We can change this value)
+	const int size = 4; // Amount of segments (We can change this value)
 
 	int segments[size]; // Create segments
 	double p; // Semi-perimeter for calculations
